@@ -38,7 +38,7 @@ CSS3: For styling and animations.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/personal-portfolio.git
+git clone https://github.com/martimmauricio/personal-portfolio.git
 
 Navigate to the project folder:
 
